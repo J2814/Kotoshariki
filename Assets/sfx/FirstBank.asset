@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd9ec0471bc37d241b66a6a62868ae90, type: 3}
+  m_Name: FirstBank
+  m_EditorClassIdentifier: 
+  Angry:
+  - {fileID: 11400000, guid: 4055aa0f8241228428f7be668e4ecbf8, type: 2}
+  - {fileID: 11400000, guid: 4250f4c8b7631a54a85502bcb35383d2, type: 2}
+  - {fileID: 11400000, guid: a0cf60370d0858241b8afc71627bc31c, type: 2}
+  - {fileID: 11400000, guid: 9a78a80bcfaeba8458639c6fd1bf47df, type: 2}
+  - {fileID: 11400000, guid: 10edda5480c91a04d9914962c66c8d09, type: 2}
+  - {fileID: 11400000, guid: a27b78169bd822747a69b8c21b235198, type: 2}
+  - {fileID: 11400000, guid: 4817a37b129041c4abd20eb1c9381ba2, type: 2}
+  Throw:
+  - {fileID: 11400000, guid: 52082aa16e667e9499009e08e89ddf3e, type: 2}
+  IdleExtra:
+  - {fileID: 11400000, guid: 762b6664e7ad0004992203d128c9786b, type: 2}
+  - {fileID: 11400000, guid: 35d8fe36e8a924c4587531a3b7fc51af, type: 2}
+  - {fileID: 11400000, guid: fade9471a5ffe764f810ca88ffbc0db3, type: 2}
+  - {fileID: 11400000, guid: e44036d2a82aec14b991f993d9f71cc6, type: 2}
+  Bump:
+  - {fileID: 11400000, guid: 33c6268707bafaf459118be02ee50b99, type: 2}
+  Start: {fileID: 11400000, guid: e558ee80ef1a97746a9d95cc0cccc77d, type: 2}
+  Gameover: {fileID: 11400000, guid: 3f2c4ee823606ae4584e0d5e986ab292, type: 2}
+  Pause: {fileID: 11400000, guid: 51876b863e1e3a14a9b22c84d5c99953, type: 2}
+  Resume: {fileID: 11400000, guid: 3d82ff788690ddd4ba21a3018c40df87, type: 2}

@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5623b0175894367488c63e821631635e, type: 3}
+  m_Name: purr 3
+  m_EditorClassIdentifier: 
+  clip: {fileID: 8300000, guid: 7123bdc95855b274da1775443620db9d, type: 3}
+  mixerGroup: {fileID: -229289588944316431, guid: 87ca649914b8a384bad40a4aa67bd4bd, type: 2}
